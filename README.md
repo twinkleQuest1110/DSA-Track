@@ -19,6 +19,7 @@ The main goal of this repository is not just solving questions, but building str
 
 - Arrays
 - Strings
+- stack
 - to be continue and add some more over time
   
 
