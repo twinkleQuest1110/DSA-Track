@@ -6,10 +6,6 @@
 
 *A pattern-based Data Structures & Algorithms learning journey — documented, not dumped.*
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-![Patterns](https://img.shields.io/badge/Patterns-16-blue?style=flat-square)
-![Made%20with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 
 </div>
 
@@ -44,7 +40,7 @@ Patterns are added **as I learn and understand them** — not to check a box.
 
 | Status | Pattern |
 |:---:|---|
-| 🔲 | Two Pointers |
+| 🟨 | Two Pointers |
 | 🔲 | Sliding Window |
 | 🔲 | Fast & Slow Pointers |
 | 🔲 | Prefix Sum |
@@ -63,7 +59,6 @@ Patterns are added **as I learn and understand them** — not to check a box.
 
 > Legend: 🔲 Not started · 🟨 In progress · ✅ Completed
 
-*(Update the emoji per row as you go — GitHub renders this table cleanly on the repo homepage.)*
 
 ---
 
