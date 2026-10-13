@@ -40,10 +40,10 @@ Patterns are added **as I learn and understand them** — not to check a box.
 
 | Status | Pattern |
 |:---:|---|
-| 🟨 | Two Pointers |
-| 🔲 | Sliding Window |
-| 🔲 | Fast & Slow Pointers |
-| 🔲 | Prefix Sum |
+| ✅ | Two Pointers |
+| ✅ | Sliding Window |
+| ✅ | Fast & Slow Pointers |
+| 🟨 | Prefix Sum |
 | 🔲 | Hashing |
 | 🔲 | Binary Search |
 | 🔲 | Stack & Monotonic Stack |
